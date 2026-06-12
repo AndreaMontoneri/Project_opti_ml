@@ -1,5 +1,7 @@
 # Project_opti_ml
-This repository contains all code, experiments, and results presented in the  report.
+This repository contains the codebase for the CS-439 Optimization for Machine Learning project.
+
+The project was developed by **Léon L'Huillier, Florian Tanguy, and Andrea Montoneri.**
 
 ## Reproducibility
 
